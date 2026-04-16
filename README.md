@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravani15012005&label=Profile%20views&color=0e75b6&style=flat" alt="shravani15012005" /> </p>
 
-- 🌱 I’m currently learning **Computer Vision, Looker, Big Data Analytics, Data Engineering.**
+- 🌱 I’m **a data analyst**
 
 - 📫 How to reach me **shravanidalvi40@gmail.com**
 
