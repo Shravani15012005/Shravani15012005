@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shravani</h1>
-<h3 align="center">A passionate Data Analyst and Data Scientist</h3>
+<h3 align="center">A Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravani15012005&label=Profile%20views&color=0e75b6&style=flat" alt="shravani15012005" /> </p>
 
